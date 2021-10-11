@@ -72,7 +72,7 @@ en todos los casos la imagen debería pesar menos de 300kb
 
 header {
     background-color: var(--tercercolor);
-    background-image: url("img/");
+    background-image: url("img/prueba2.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -81,7 +81,7 @@ header {
 
 @media (min-width: 576px) {
     header {
-        background-image: url("img/");
+        background-image: url("img/prueba3");
     }
 }
 
@@ -101,7 +101,7 @@ Con tales colores, la imagen sirve de transición a la parte que ofrece más inf
 --------------------------------------------------------------------------------------------- */
 
 main {
-    background-image: url("img/relacion-21x9.png");
+    background-image: url("img/ciudad.png");
     background-position: center bottom;
     background-repeat: repeat-x;
     background-size: 100% auto;
